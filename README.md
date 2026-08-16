@@ -405,6 +405,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | Tool | Description | Best For |
 |------|-------------|----------|
 | **[ACCELQ Autopilot](https://accelq.com)** | Generative AI for full-lifecycle automation, test generation, healing, and QA acceleration | Full-lifecycle test automation, enterprise QA |
+| **[Agent QA](https://github.com/vostride/agent-qa)** | Source-available agentic QA harness for natural-language web and mobile tests with persistent run memory and self-healing execution | Developer-driven regression testing, CLI and MCP workflows |
 | **[AskUI](https://askui.com)** | No-DOM, agentic AI testing platform using computer vision and natural language for UI automation | Visual testing, hybrid app automation |
 | **[Autify](https://autify.com)** | Self-healing, visual test automation with AI and codeless workflows | Visual regression, no-code testing |
 | **[AutonomIQ (Sauce Labs)](https://saucelabs.com)** | NLP-powered, low-code platform converting requirements into automated tests | Requirements-based testing, multi-channel |
