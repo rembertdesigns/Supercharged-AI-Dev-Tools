@@ -660,6 +660,7 @@ Quickly navigate through categories and uncover the most innovative AI-powered c
 | **[Nullify.ai](https://nullify.ai)** | AI-powered AppSec platform automating vulnerability detection, triage, prioritization, and auto-fixing | Unified AppSec, auto-remediation |
 | **[Pixee.ai](https://pixee.ai)** | AI-driven automated code security fixes focused on developer productivity and seamless PR remediation | Developer-focused security, PR integration |
 | **[Secureframe](https://secureframe.com)** | AI-powered security compliance automation with evidence validation, risk assessments, and continuous monitoring | Compliance automation, audit readiness |
+| **[Speakeasy control plane](https://www.speakeasy.com/)** | MCP gateway with identity-based tool permissions, per-action security policies, and audit logs for agent activity | Agent tool access governance, audit trails |
 | **[Sprinto](https://sprinto.com)** | AI-powered continuous compliance platform for SOC 2, ISO 27001, GDPR with automated audit readiness | Multi-framework compliance, audit preparation |
 | **[Zeropath](https://zeropath.com)** | AI-focused security testing platform with continuous fuzz testing and vulnerability discovery | Fuzz testing, vulnerability research |
 
